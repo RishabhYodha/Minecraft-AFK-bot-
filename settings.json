@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Rishabh'Staff",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "RishabhYodha.aternos.me",
-    "port": 24937,
+    "ip": "node-sg-free-01.tickhosting.com.aternos.me",
+    "port":50503,
     "version": "1.21.4",
     "try-creative": false
   },
@@ -32,8 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "/register Staff22 Staff22",
+        "/login Staff22 Staff22",
+        "Subscribe to @SenseiRishabh!",
+        "i am not bot i am a real player"
       ]
     },
     "chat-log": true,
@@ -45,22 +47,22 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 6,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 500
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +71,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night":true
   },
   "discord": {
     "enabled": false,
