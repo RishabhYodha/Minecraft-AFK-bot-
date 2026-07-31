@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com.aternos.me",
+    "ip": "node-sg-free-01.tickhosting.com",
     "port":50503,
     "version": "1.21.4",
     "try-creative": false
