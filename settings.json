@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Rishabh'Staff",
+    "username": "RishabhStaff",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "node-sg-free-01.tickhosting.com",
-    "port":50503,
+    "port":50003,
     "version": "1.21.4",
     "try-creative": false
   },
