@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
+    "ip": "marinemc.mcsh.io",
     "port":50003,
     "version": "1.21.4",
     "try-creative": false
