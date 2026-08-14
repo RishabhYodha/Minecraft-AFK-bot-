@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "marinemc.mcsh.io",
-    "port":11133,
+    "port":25565,
     "version": "1.21.4",
     "try-creative": false
   },
